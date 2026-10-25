@@ -1,0 +1,12 @@
+# 核心依赖
+torch>=2.1
+transformers>=4.40
+sentence-transformers>=2.6
+numpy>=1.24
+PyYAML>=6.0
+tqdm>=4.66
+requests>=2.31
+matplotlib>=3.7
+
+# 可选：使用 vLLM 后端时安装
+# vllm>=0.6
